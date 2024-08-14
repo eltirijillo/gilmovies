@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.titulo {
+    text-align: center;
+    background-color: black;
+    color: red;
+    padding: 20px;
+background-color: black;    
+}
+h1{
+    background-color: rgb(120, 120, 120);  
+    color: rgb(67, 13, 13);
+    text-align: center;
+}
+
+img{
+    margin: 20px;
+
+}
+.poster img{
+    width: 100px;
+    height: auto;
+    align-items: center;
+
+}
+
+.poster1 img{
+    width: 100px;
+    height: auto;
+}
+
+.poster2 img{
+    width: 100px;
+    height: auto;
+}
+
+.poster3 img{
+    width: 100px;
+    height: auto;
+    align-items: center;
+
+}
+
+.poster4 img{
+    width: 100px;
+    height: auto;
+    align-items: center;
+
+}
